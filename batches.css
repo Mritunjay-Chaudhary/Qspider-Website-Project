@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+section{
+    height: 130px;
+    width: 1540px;
+    border: 2px solid;
+    background-color: rgb(44, 43, 40);
+    
+    display: flex;
+    justify-content: space-around;
+    
+
+    
+    
+}
+div.box1{
+    height: 120px;
+    width: 120px ;
+    border: 20px solid#FF0000;
+    border-radius: 50%;
+    position: relative;
+    top: 4px;
+    left: -50px;
+    text-align:center;
+    color: red;
+    
+   
+    
+}
+div.box11{
+    height: 96px;
+    width: 17px;
+    border: 2px solid;
+    background-color: blue;
+    transform: rotate(-45deg);
+    position: relative;
+    top: -80px;
+    left: 40px;
+}
+.home{
+
+    text-align: center;
+}
+.courses{
+    
+    text-align: center;
+}
+.batches{
+    
+    text-align: center;
+}
+.call{
+    
+    text-align: center;
+}

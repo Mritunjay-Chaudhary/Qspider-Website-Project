@@ -1,0 +1,171 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.front_head_line{
+    height: 120px;
+    width: 1537px;
+    border: 2px solid black;
+   
+    background-color:#010101;
+   
+    display: flex;
+    justify-content: space-around;
+
+    align-items: center;
+    color: wheat;
+    position: fixed;
+    
+    
+
+}
+div.box1{
+    height: 105px;
+    width: 105px ;
+    border: 20px solid yellowgreen;
+    border-radius: 50%;
+    position: relative;
+    top: 34px;
+    left: -50px;
+    text-align:center;
+    color: red;
+    
+   
+    
+}
+div.box11{
+    height: 66px;
+    width: 17px;
+    border: 2px solid blue;
+    background-color: blue;
+    transform: rotate(-45deg);
+    position: relative;
+    top: -24px;
+    left: 30px;
+}
+section{
+    display: flex;
+}
+.core_java_home{
+    height: 588px;
+    width: 250px;
+    
+    color: white;
+    text-align: center;
+    overflow-y:auto ;
+    background-color:peru;
+    position: fixed;
+    top: 119px;
+}
+.core_java_home::-webkit-scrollbar{
+    display: none;
+  }
+  span{
+    text-shadow: 5px 10px 4px red;
+  }
+  
+  .first{
+    margin: 80px;
+    height: 574px;
+    width: 1100px;
+    
+    position: fixed;
+    top: 45px;
+    left: 200px;
+    /* text-align: center; */
+    overflow-y: auto;
+    background-color: wheat;
+    /* color: wheat; */
+  }
+  .box{
+    margin: 60px;
+  }
+  .x{
+    position: fixed;
+    top: -200px;
+    left: 10px;
+   
+    text-shadow: 10px 950px 3px red;
+    transform: rotate(-45deg);
+    
+    
+   
+    
+  } 
+  a{
+    text-decoration: none;
+    color:wheat;
+  }
+  .JDK_JRE_JVM{
+    height: 400px;
+    width: 600px;
+    border: 8px solid;
+  }
+  .z{
+    height: 380px;
+    width: 580px;
+    background-color: aqua;
+   margin: 2px;
+   position: relative;
+   top: 1px;
+    display: flex;
+    
+     justify-content: center;
+    text-align: center;
+      
+  }
+  .a{
+    height: 200px;
+    width: 400px;
+    border: 2px solid;
+    position: relative;
+    top: 90px;
+    background-color: rgba(255, 255, 255, 0.933);
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  .b{
+    height: 200px;
+    width: 200px;
+    
+   
+    position: relative;
+    top: 160px;
+    
+  }
+  .c{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: magenta;
+    position: relative;
+    top: 40px;
+    right: 60px;
+  }
+  .d{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    top: 80px;
+    right: 60px;
+  }
+  .jdk{
+    height: 150px;
+    width: 300px;
+     border: 2px solid;
+     text-align: center;
+  }
+  .jre{
+    height: 150px;
+    width: 300px;
+     border: 2px solid;
+     text-align: center;
+  }
+  .jvm{
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    border: 2px solid;
+  }

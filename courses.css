@@ -1,0 +1,197 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+article{
+    height: 130px;
+    width: 1540px;
+    border: 2px solid black;
+    background-color: black;
+    
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    
+
+    
+    
+}
+article a{
+  text-decoration: none;
+
+}
+
+div.box1{
+    height: 120px;
+    width: 120px ;
+    border: 20px solid yellowgreen;
+    border-radius: 50%;
+    position: relative;
+    top: 5px;
+    left: -50px;
+    text-align:center;
+    color:red ;
+   
+    
+}
+
+
+div.box11{
+    height: 96px;
+    width: 17px;
+    border: 2px solid blue;
+    background-color: blue;
+    transform: rotate(-45deg);
+    position: relative;
+    top: -80px;
+    left: 40px;
+    
+}
+.home{
+    text-decoration: none;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    
+}.home a{
+  text-decoration: none;
+  color: wheat;
+}
+.courses{
+    
+    text-align: center;
+    position: relative;
+    top: 30px;
+    text-decoration: none;
+}
+.courses a{
+  text-decoration: none;
+  color: wheat;
+}
+.batches{
+    
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+.batches a{
+  text-decoration: none;
+  color: wheat;
+}
+.call{
+    
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+.call a{
+  text-decoration: none;
+  color: wheat;
+}
+.gmail{
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+.gmail a{
+  text-decoration: none;
+  color: wheat;
+}
+marquee{
+    position: fixed;
+    top: 130px;
+    color: red;
+}
+section{
+    height: 550px;
+    width: 1540px;
+    border: 2px solid;
+    position: fixed;
+     top: 180px;
+     overflow-y: auto;
+     
+}
+section::-webkit-scrollbar{
+    display: none;
+  }
+  .full_stack_java{
+    height: 300px;
+    width: 1540px;
+    border:  2px solid black ;
+    text-align: center;
+    background-color: black;
+    color: wheat;
+    text-decoration: none;
+    
+  }
+  section  .full_stack_java  .full_stack_java_photo{
+    position: relative;
+    top: -240px;
+    right: 400px;
+  }
+  .full_stack_python{
+    height: 300px;
+    width: 1540px;
+    border:  2px solid black;
+    text-align: center;
+    background-color:black;
+    
+    color: white;
+    
+
+  }
+  section .full_stack_python .full_stack_python_photo{
+    position: relative;
+    top: -220px;
+    right: 400px;
+  }
+  .front_developer{
+    height: 300px;
+    width: 1540px;
+    border:  2px solid black;
+    text-align: center;
+    background-color: #000000;
+    color: white;
+
+  }
+  section .front_developer .front_developer_photo{
+    position: relative;
+    top: -220px;
+    right: 400px;
+  }
+  .manual{
+    height: 300px;
+    width: 1540px;
+    border:  2px solid black ;
+    text-align: center;
+    background-color: black;
+    color: white;
+  }
+  section .manual .manual_photo{
+    position: relative;
+    top: -220px;
+    right: 400px;
+  }
+  .testing{
+    height: 300px;
+    width: 1540px;
+    border:  2px solid black;
+    text-align: center;
+    background-color: #000000;
+    color: white;
+  }
+ section .testing .testing_photo{
+  position: relative;
+    top: -220px;
+    right: 400px;
+ }
+ a{
+  text-decoration: none;
+ }
+ img{
+   border-radius: 50%;
+ }

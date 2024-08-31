@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.front_head_line{
+    height: 150px;
+    width: 1540px;
+    border: 0px solid #093935;
+    background-color: #093935;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    color: white;
+
+}
+div.box1{
+    height: 140px;
+    width: 140px ;
+    border: 20px solid#FF0000;
+    border-radius: 50%;
+    position: relative;
+    top: 48px;
+    left: -80px;
+    text-align:center;
+    color: red;
+    
+   
+    
+}
+div.box11{
+    height: 96px;
+    width: 17px;
+    border: 2px solid blue;
+    background-color: blue;
+    transform: rotate(-45deg);
+    position: relative;
+    top: -38px;
+    left: 40px;
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: blue;
+}

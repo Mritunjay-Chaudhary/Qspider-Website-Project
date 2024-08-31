@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title><link rel="stylesheet" href="S_tring class.css">
+</head>
+<body>
+    <div class="front_head_line">
+
+        <a href="../Q_spider_project_men.html">
+            <div class="logo_qspider">
+                <div class="box1">
+                 <h4>Spider</h4>
+                </div>
+                <div class="box11"></div>
+                  
+            </div>
+        </a>
+        <span><h1>CORE JAVA</h1></span>
+        <div class="photo"><img src="photo1.jpg" height="110px" width="280px" alt=""> </div>
+  </div>
+          
+      <section>
+           <div class="core_java_home">
+            <h1>CORE JAVA</h1>  
+            
+            <ol>
+                <h1>PART-1</h1>
+                 
+                     <a href="What_is_core_java.html"><li>What is core java?</li></a>
+                     
+                     
+                      <br>
+                          <a href="programming_langauge.html"><li>Programming language and type</li></a> 
+                     <br>
+                     <a href="what_is_futures.html"><li>Why Java features</li></a>
+                     <br>
+                     <a href="Why_java_is_the_platform-independent.html"><li>Why java is the platform-independent</li></a>
+                    
+                     <br>
+                     <a href="JDK_JRE_JVM.html"><li>JDK, JRE, JVM</li></a>
+                    
+                     <br>
+                     <a href="File_structure_in_the.html"><li>File structure in the Windows<br> operating system and <br>
+                        command prompt</li></a>
+                     <br>
+                     <a href="Structure_of_Java_program.html"><li>Structure of Java program </li></a>
+                     <br>
+                     <a href="Printing_statement.html"><li>Printing statement </li></a>
+                     <br>
+                     <a href="Tokens and Types.html"><li>Tokens and Types</li></a>
+                     <br>
+                    
+                     <a href="Variable & Data types.html"> <li>Variable & Data types</li></a>
+                     <br>
+                      <a href="O_perators.html"><li>Operators</li></a>
+                     <br>
+                     <a href="Control Statement.html"><li>Control Statement</li></a>
+                     <br>
+                      <a href="Method and Types.html"><li>Method and Types </li></a>
+                     <br>
+                      <a href="Method call.html"><li>Method call</li></a>
+                     <br>
+                    
+                      <a href="Hard code and Dynamic Reading.html"><li>Hard code and Dynamic Reading
+                    </li></a>
+                     
+                     <br>
+                     
+
+
+            </ol>
+            <ol>
+                <h1>PART-2</h1>
+                 <a href="Static and static members.html"><li>Static and static members</li></a>
+                <br>
+                <a href="Non-static and non-static members.html"> <li>Non-static and non-static members</li></a>
+                <br>
+                 <a href="Concept and principal of oops.html"><li>Concept and principal of oops</li></a>
+                <br>
+            </ol>
+            <ol>
+                <h1>PART-3</h1>
+                 <a href="Object class.html"><li>Object class</li></a>
+                <br>
+                
+                 <a href="S_tring.html"><li>String class</li></a>
+                <br>
+                <a href="Array.html"><li>Array</li></a>
+                <br>
+                 <a href="Structure of Java Source file.html"><li>Structure of Java  Source file</li></a>
+                <br>
+                <a href="Package.html"><li>Package</li></a>
+                <br>
+                 <a href="Access modifier.html"> <li>Access modifier</li></a>
+                <br>
+                 <a href="Exception handling.html"><li>Exception handling</li></a>
+                <br>
+                 <a href="Wrapper class.html"><li>Wrapper class</li></a>
+                <br>
+                
+                 <a href="Collection Framework.html"><li>Collection Framework</li></a>
+                <br>
+                 <a href="Multi-Threading.html"></a>
+                <br>
+                 <a href="File handling.html"><li>File handling</li></a>
+                
+                
+                <br>
+            </ol>
+                    
+           </div>
+           <div class="first">
+              <div class="box">
+                    <ol>
+                        <h1>
+                            <span class="x">C O R E &nbsp; &nbsp;  J A V A</span></h1>
+                            
+                       <li><h1>Why java platform-independent</h1></li><br>
+                                 
+                              
+                     </ol>
+              </div>
+           </div>
+           
+        </section>  
+</body>
+</html>
